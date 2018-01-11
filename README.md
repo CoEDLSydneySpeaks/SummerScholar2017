@@ -12,9 +12,9 @@ Supervisor: Simón González (as part of the Sydney Speaks project, led by Cathe
 
 ### Authors: 
   
-  * Simon Gonzalez - ANU (simon.gonzalez@anu.edu.au) and
+  * Simon Gonzalez - Writer and Developer - ANU (simon.gonzalez@anu.edu.au) and
   
-  * Nicole Harris - UWA(10994170@student.uwa.edu.au)
+  * Nicole Harris - Testing and improvements - UWA(10994170@student.uwa.edu.au)
 
 ### Links:
 
