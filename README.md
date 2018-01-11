@@ -24,7 +24,7 @@ Supervisor: Simón González (as part of the Sydney Speaks project, led by Cathe
 
 * [Transcription Acceleration Project](http://www.itee.uq.edu.au/cis/tap)
 
-* [Similar R-based App by Simon Gonzalez] (https://phoneapps.shinyapps.io/sociophonetic_tools/)
+* [Similar R-based App by Simon Gonzalez](https://phoneapps.shinyapps.io/sociophonetic_tools/)
 
 ### Acknowledgments
 
