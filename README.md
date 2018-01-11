@@ -14,7 +14,7 @@ Supervisor: Simón González (as part of the Sydney Speaks project, led by Cathe
   
   * Simon Gonzalez - Writer and Developer - ANU (simon.gonzalez@anu.edu.au) and
   
-  * Nicole Harris - Testing and improvements - UWA(10994170@student.uwa.edu.au)
+  * Nicole Harris - Testing and improvements - UWA (10994170@student.uwa.edu.au)
 
 ### Links:
 
